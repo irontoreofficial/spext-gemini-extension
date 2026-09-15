@@ -1,0 +1,11 @@
+{
+  "name": "spext-gemini-extension",
+  "version": "1.0.0",
+  "description": "Share text, create secret notes, and request files with Spext.",
+  "contextFileName": "GEMINI.md",
+  "mcpServers": {
+    "spext": {
+      "httpUrl": "https://spext.fun/api/mcp"
+    }
+  }
+}
