@@ -1,3 +1,13 @@
+<p align="center">
+  <img src="./assets/spext-gemini-cli-banner.png" alt="Spext Gemini CLI Extension Banner" width="100%">
+</p>
+
+<h1 align="center">Spext Gemini CLI Extension</h1>
+
+<p align="center">
+  Connect Spext to Gemini CLI with MCP
+</p>
+
 <div align="center">
 
 # Spext for Gemini CLI
